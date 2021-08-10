@@ -7,7 +7,7 @@ A Javascript Library to Display in-site Messages...
 
 ## *Installation:-*
 ```html
-<script src="https://cdn.jsdelivr.net/gh/sancho1952007/msg.js/main.js"></script>
+<script src="https://sancho1952007.github.io/msg.js/main.js"></script>
 ```
 
 ## *To Display Message:-*
