@@ -14,3 +14,9 @@ A Javascript Library to Display in-site Messages...
 ```javascript
 message('Your Text Here')
 ```
+
+## ***Note: Please Use A <body> Tag in Your HTML Code if You Want The Message Animation!***
+  
+<br>
+  
+# ***Thank You!***
