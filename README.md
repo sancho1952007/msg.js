@@ -15,7 +15,7 @@ A Javascript Library to Display in-site Messages...
 message('Your Text Here')
 ```
 
-## ***Note: Please Use A <body> Tag in Your HTML Code if You Want To Use msg.js***
+## ***Note: Please Use A \<body> Tag in Your HTML Code if You Want To Use msg.js***
   
 <br>
   
