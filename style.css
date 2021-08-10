@@ -1,0 +1,8 @@
+@keyframes msg{
+    10%{
+        top: 0px;
+    }
+    50%{
+        top: 10px;
+    }
+}
