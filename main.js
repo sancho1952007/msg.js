@@ -24,5 +24,3 @@ function load(){
     link.setAttribute('href', 'https://sancho1952007.github.io/msg.js/style.css')
     document.head.appendChild(link);
 }
-
-console.log('Loaded Msg.js By (Sancho Godinho);\nSee It Here: https://github.com/sancho1952007/msg.js;');
