@@ -21,7 +21,7 @@ document.onload=load();
 function load(){
     var link=document.createElement('link');
     link.setAttribute('rel', 'stylesheet');
-    link.setAttribute('href', 'https://cdn.jsdelivr.net/gh/sancho1952007/msg.js/main.js')
+    link.setAttribute('href', 'https://cdn.jsdelivr.net/gh/sancho1952007/msg.js/style.css')
     document.head.appendChild(link);
 }
 
