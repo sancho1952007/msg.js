@@ -1,4 +1,4 @@
-# *How To Use Custom Font & Custom Style for The Message?*
+# *How To Use Custom CSS for The Message?*
 
 <br>
 
@@ -15,5 +15,23 @@
 ```CSS
 .msg-text{
     font-size: 25px;
+}
+```
+
+<br>
+
+## *Use Custom Text Colour :-*
+```CSS
+.msg-text{
+    color: green;
+}
+```
+
+<br>
+
+## *Use Custom Text Background Colour :-*
+```CSS
+.msg-text{
+    background-color: yellow;
 }
 ```
