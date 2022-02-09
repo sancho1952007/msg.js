@@ -4,11 +4,23 @@
 A Javascript Library to Display in-site Messages...
 
 <br>
+<br>
 
 ## *Installation:-*
+**Import Specific Version Using jsdelivr:**
 ```html
-<script src="https://sancho1952007.github.io/msg.js/main.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/sancho1952007/msg.js@1.1/msg.min.js"></script>
 ```
+
+<br>
+
+**Import Latest Version:**
+```html
+<script src="https://sancho1952007.github.io/msg.js/msg.min.js"></script>
+```
+
+<br>
+<br>
 
 ## *To Display Message:-*
 ```javascript
